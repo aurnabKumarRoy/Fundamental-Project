@@ -1,0 +1,71 @@
+* main{
+    padding:15px;
+}
+.navbar{
+    justify-content: space-between;
+    display:flex;
+}
+.navbar .logo{
+    justify-content: space-between;
+    display:flex;
+    padding-left:10px;
+}
+.navbar .logo img{
+    padding-top: 7px;
+}
+.navbar .logo h3{
+    padding-left: 7px;
+}
+.navbar .nav-links{
+    display: flex;
+    justify-content: space-between;
+    width:350px;
+}
+.navbar .search-cart{
+    display: flex;
+    justify-content:flex-end;
+    padding-top: 12px;
+    padding-right:10px
+}
+.navbar .search-cart img{
+    padding-left: 7px;
+    height: 30px;
+    width: 30px;
+}
+.navbar #search-box{
+    height: 30px;
+    width:170px;
+}
+* a{
+    text-decoration: none;
+}
+
+/*Navbar DONE*/
+.hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    height:400px;
+}
+.hero img{
+    height:430px;
+    width:650px;
+}
+.hero .hero-text{
+    justify-items: left;    
+    padding-top:200px;
+}
+.hero .hero-text h1{
+    font-style: oblique;
+}
+.hero .info-card{
+    padding-top: 70px;
+}
+
+/*hero Done*/
+
+
+
+
+
+
